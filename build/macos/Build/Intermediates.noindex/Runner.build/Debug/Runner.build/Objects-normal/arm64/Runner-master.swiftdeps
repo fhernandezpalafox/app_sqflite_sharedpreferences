@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c9389b2c23c5a3210df960be28f082b39fc26662705e7a69f0ab4e679af16c20"
+build_start_time: [1682143470, 364646911]
+build_end_time: [1682143472, 669743061]
+inputs:
+  "/Users/felipehernandez/Desktop/app_sqflite_sharedpreferences/macos/Flutter/GeneratedPluginRegistrant.swift": [1682143465, 39295673]
+  "/Users/felipehernandez/Desktop/app_sqflite_sharedpreferences/macos/Runner/AppDelegate.swift": [1639683103, 0]
+  "/Users/felipehernandez/Desktop/app_sqflite_sharedpreferences/macos/Runner/MainFlutterWindow.swift": [1639683103, 0]
